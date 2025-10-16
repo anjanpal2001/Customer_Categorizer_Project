@@ -1,0 +1,10 @@
+{
+    // Recommended workspace settings to increase editor font size
+    // You can override these in your global User Settings if needed.
+    "editor.fontSize": 16,
+    "editor.lineHeight": 24,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+
+    // Optional: increase terminal font size inside VS Code terminal
+    "terminal.integrated.fontSize": 14
+}
