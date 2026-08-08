@@ -44,3 +44,4 @@ jobs:
           docker rm customer-categorizer-container || true
           docker build -t customer-categorizer-app .
           docker run -d --name customer-categorizer-container -p 8000:8000 customer-categorizer-app
+          # Optional: Add any additional deployment steps here, such as database migrations or service restarts.
